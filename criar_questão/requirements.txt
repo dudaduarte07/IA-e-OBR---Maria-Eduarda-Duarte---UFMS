@@ -1,0 +1,6 @@
+tk
+pyperclip
+selenium
+webdriver-manager
+undetected-chromedriver
+Pillow
